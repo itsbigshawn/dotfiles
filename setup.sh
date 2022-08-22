@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cp ./.bashrc ~/
+#cp ./.bashrc ~/
 cp ./.zshrc ~/
-cp ./.aliases ~/
+#cp ./.aliases ~/
 
-echo "machine goproxy.githubapp.com login itsbigshawn password $GH_GH_PAT" >> $HOME/.netrc
+#echo "machine goproxy.githubapp.com login itsbigshawn password $GH_GH_PAT" >> $HOME/.netrc
